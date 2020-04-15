@@ -1,0 +1,7 @@
+algorithm/config/
+.vscode/
+venv/
+__pycache__/
+migrations/
+.env
+.env.docker
